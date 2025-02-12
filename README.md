@@ -48,6 +48,14 @@ Welcome to my portfolio repository! This repository contains links and descripti
 
 ---
 
+###. Workout Management System (MERN Stack)
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js
+**Description:** A MERN stack project for workout management where users can create their own workouts. React Context API is used to manage data on the frontend.
+**Repository:** [MERN-Mini-Project](https://github.com/RaniHijazi/MERN-Mini-Project.git)
+
+
+
 ### . **E-commerce Website**  
 **Tech Stack:** Laravel MVC  
 **Description:** A comprehensive e-commerce website built using Laravel MVC, offering a complete shopping experience.
@@ -55,5 +63,5 @@ Welcome to my portfolio repository! This repository contains links and descripti
 
 ---
 
-Feel free to explore these projects to see my work in full-stack development using ASP.NET Core, React.js, Laravel, and Flask!
+Feel free to explore these projects to see my work in full-stack development using ASP.NET Core, React.js, Laravel,MERN and Flask!
 
