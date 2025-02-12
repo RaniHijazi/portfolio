@@ -50,8 +50,15 @@ Welcome to my portfolio repository! This repository contains links and descripti
 
 ### . **Workout Management System**  
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js  
-**Description:** A MERN stack project for workout management where users can create their own workouts. React Context API is used to manage data on the frontend.  
+**Description:** A MERN stack project for workout management where users can create their own workouts(Users sign in and authentication by jwt token is implemented). React Context API is used to manage data on the frontend.  
 **Repository:** [MERN-Mini-Project](https://github.com/RaniHijazi/MERN-Mini-Project.git)
+
+---
+
+### . **MERN Reviews Application**  
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js  
+**Description:** A MERN stack project implementing multiple functionalities, including authentication with Google, email sending, and data management using Redux.  
+**Repository:** [MERN-Reviews](https://github.com/RaniHijazi/MERN-Reviews.git)
 
 ---
 
